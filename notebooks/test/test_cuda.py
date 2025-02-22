@@ -1,5 +1,4 @@
 import pycuda.driver as cuda
-import pycuda.autoinit
 
 
 def test_cuda():
